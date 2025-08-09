@@ -1,5 +1,5 @@
 # ❌⭕ Tic Tac Toe Game 🎮  
-A fun, interactive, and modern take on the classic Tic Tac Toe game built with **HTML**, **CSS**, and **JavaScript**. Designed with animation, dark mode, sound effects, and score tracking, this game is an excellent showcase of frontend development, UI/UX design, and basic AI logic.
+A fun, interactive, and modern take on the classic Tic Tac Toe game built with **HTML**, **CSS**, and **JavaScript**. Designed with animation,  this game is an excellent showcase of frontend development and UI/UX design.
 
 ---
 
